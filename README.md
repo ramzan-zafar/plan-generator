@@ -12,7 +12,7 @@ mvn clean package
  
 Run the following command to run tests: 
 <pre>
-    mvn test
+mvn test
 </pre>
     
 Pleaes use the following command to run the application:
