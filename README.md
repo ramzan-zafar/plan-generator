@@ -1,7 +1,9 @@
 
-Plan Generator
+# Plan Generator
 
 Please clone this project and go to root directory.
+
+## Useful Commands
 
 Please build the project using the following command: 
 <pre>
